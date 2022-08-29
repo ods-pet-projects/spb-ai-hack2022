@@ -11,3 +11,6 @@
 см файл https://github.com/ods-pet-projects/spb-ai-hack2022/blob/main/metamodel.ipynb
 
 
+## Презентация
+
+см файл https://github.com/ods-pet-projects/spb-ai-hack2022/blob/main/Profit_CBR.pptx
