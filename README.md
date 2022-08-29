@@ -14,3 +14,7 @@
 ## Презентация
 
 см файл https://github.com/ods-pet-projects/spb-ai-hack2022/blob/main/Profit_CBR.pptx
+
+## Лидерборд
+
+![alt text](https://github.com/ods-pet-projects/spb-ai-hack2022/blob/main/photo_2022-08-29_18-49-36.jpg)
